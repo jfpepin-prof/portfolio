@@ -29,4 +29,4 @@ jobs:
       with:
         server: ftp.jfpepin.ca
         username: admin@jfpepin.ca
-        password: ${L*#VqsPJwZ
+        password: ${{ secrets.FTP_PASSWORD }}
