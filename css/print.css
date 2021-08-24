@@ -1,0 +1,13 @@
+.hide-on-print{
+    display: none !important;
+}
+
+body, footer{
+    background: white;
+    color: #000;
+}
+
+a{
+    color: #000;
+}
+
